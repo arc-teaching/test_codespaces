@@ -17,6 +17,6 @@ a <- 5
 ```{python}
 import math
 print (f"{(math.e**(math.pi*1j)) + 1:.2f}")
-x = 5
+x = 6
 print(x)
 ```
